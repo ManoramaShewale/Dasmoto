@@ -1,0 +1,43 @@
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("./Images/pattern.webp");
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
